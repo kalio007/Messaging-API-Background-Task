@@ -1,0 +1,26 @@
+2024-07-13 22:09:49,148 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-13 22:09:49,148 [33mPress CTRL+C to quit[0m
+2024-07-13 22:09:49,148  * Restarting with stat
+2024-07-13 22:09:49,243  * Debugger is active!
+2024-07-13 22:09:49,249  * Debugger PIN: 114-972-175
+2024-07-13 22:10:53,187 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-13 22:10:53,187 [33mPress CTRL+C to quit[0m
+2024-07-13 22:10:53,188  * Restarting with stat
+2024-07-13 22:10:53,286  * Debugger is active!
+2024-07-13 22:10:53,291  * Debugger PIN: 114-972-175
+2024-07-13 22:11:42,050 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-13 22:11:42,050 [33mPress CTRL+C to quit[0m
+2024-07-13 22:11:42,050  * Restarting with stat
+2024-07-13 22:11:42,149  * Debugger is active!
+2024-07-13 22:11:42,153  * Debugger PIN: 114-972-175
+2024-07-13 22:21:26,552 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-13 22:21:26,552 [33mPress CTRL+C to quit[0m
+2024-07-13 22:21:26,552  * Restarting with stat
+2024-07-13 22:21:26,649  * Debugger is active!
+2024-07-13 22:21:26,655  * Debugger PIN: 114-972-175
+2024-07-13 22:33:47,282  * Detected change in '/Users/princewillkalio/codes/flask-messaging/app.py', reloading
+2024-07-13 22:33:47,306  * Restarting with stat
